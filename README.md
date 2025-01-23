@@ -1,2 +1,3 @@
-# Git-hub-practice
-shoe hub
+# ABOUT THE PROJECT
+online shoe store easy to shopping
+
